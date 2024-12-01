@@ -8,6 +8,7 @@ body {
   height: 100vh;
   background-color: #B6FFA1;
   display: flex;
+  flex-wrap: wrap;
   justify-content: center;
   align-items: center;
 }
